@@ -1,6 +1,0 @@
-﻿[package]
-name = "humanity-run"
-version = "1.0.0"
-edition = "2021"
-
-[dependencies]
